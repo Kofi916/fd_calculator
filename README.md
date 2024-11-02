@@ -3,14 +3,17 @@ Fixed Deposit (FD) Calculator
 
 A simple Fixed Deposit (FD) calculator built with HTML, CSS, and JavaScript to estimate returns on a fixed deposit based on principal, interest rate, and time period.
 
-Features
+FEATURES
 
 Principal Investment: Adjust the amount invested using a slider.
+
 Interest Rate: Set the annual interest rate.
+
 Time Period: Define the investment period in years.
+
 Compounding: Calculates interest compounded quarterly.
 
-How to Use
+HOW TO USE
 
 Open index.html in a browser.
 
@@ -30,7 +33,7 @@ Estimated Returns: Total interest earned.
 
 Total Value: Sum of principal and returns.
 
-Technologies Used
+TECHNOLOGIES USED
 
 HTML: Structure of the application.
 
@@ -39,7 +42,7 @@ CSS: Styling and layout.
 JavaScript: Calculates FD returns based on compound interest formula.
 
 
-Formula
+FORMULA
 The calculation is based on the compound interest formula:
 
 A = P * (1 + r/n)^(n * t)
